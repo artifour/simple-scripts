@@ -1,6 +1,8 @@
 // ==UserScript==
-// @name     Simple Form Save HotKey
+// @name     Simple Scripts: Form Save HotKey
 // @version  1
+// @description Press ALT + SHIFT + S to save a form.
+//
 // @include *://*.simpleone.ru/record/*
 // @include *://localhost:3000/record/*
 // ==/UserScript==
